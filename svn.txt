@@ -3,3 +3,4 @@ svn://112.16.89.230/server/java/wsyinterface
 3333333333
 1111111111
 222222222
+Git has a mutable index called stage.
